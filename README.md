@@ -4,8 +4,8 @@
   I'm actually on career transition. Initially I started on ADM sector, 
   but as I always liked of technologies, that was not completing me :eyes:
 
-- :mortar_board: I’m happy studying Science Computition on FURB (3/6);
-- :triangular_flag_on_post: In a first moment, I've chosen learning JS, HTML and CSS alone (but I take risks on JAVA too);
+- :mortar_board: I’m happy studying Science Computition on FURB (4/6);
+- :triangular_flag_on_post: In a first moment, I've working to React and Spring Boot (but I'm taking risks on .NET too);
 
 ## Contacts:
 
