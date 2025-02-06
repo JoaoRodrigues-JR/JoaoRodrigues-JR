@@ -1,4 +1,4 @@
-### Hi all, I'm João! :smiley:
+### Hi all, welcome! :smiley:
 
   I started my career as DevOps intern, but now I've working in web development. Some curiosities about me:
 
