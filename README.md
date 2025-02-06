@@ -11,7 +11,7 @@
 
 <div>
 <a href="[https://instagram.com/seu-usuário-instagram-aqui](https://www.instagram.com/eu_joao.rodrigues/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="[www.linkedin.com/in/joão-victor-rodrigues-b750b0228](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bxr2vLg06TVGfI6U%2BBOakjw%3D%3D)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="www.linkedin.com/in/joão-victor-rodrigues-b750b0228" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ## My Statistics:
