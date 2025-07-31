@@ -3,7 +3,7 @@
   I started my career as DevOps intern, but now I've working in web development. Some curiosities about me:
 
 - :mortar_board: I’m happy studying Computition Science on FURB (5/6);
-- :triangular_flag_on_post: I've working to React and Spring Boot;
+- :triangular_flag_on_post: I've working to React, Spring Boot and Oracle PLSQL;
 
 ## Contacts:
 
